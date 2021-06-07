@@ -7,4 +7,4 @@ Hosted on Webflow
 https://chat-app-3935cf.webflow.io/
 <br>
 <br>
-![alt text](https://github.com/ps104/chatappconcept/blob/main/chatappdesign.jpg?raw=true)
+![alt text](https://github.com/ps104/chat-app-concept/blob/main/chatappdesign.jpg?raw=true)
